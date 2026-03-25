@@ -875,18 +875,6 @@
   color: var(--brand-primary);
 }
 
-.footer-menu-item.is-active::after {
-  content: "";
-  position: absolute;
-  bottom: -0.5rem;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 4px;
-  height: 4px;
-  border-radius: 50%;
-  background: var(--brand-primary);
-}
-
 @media (prefers-color-scheme: dark) {
   .footer-menu {
     background: rgba(31, 41, 55, 0.95);
