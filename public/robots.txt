@@ -1,0 +1,12 @@
+# Mobile site - Point to main site for indexing
+User-agent: *
+Allow: /
+
+# Main sitemap is on the primary domain
+Sitemap: https://smeclabs.ac.in/sitemap.xml
+
+# Crawl-delay for better server performance
+Crawl-delay: 1
+
+# Note: This is the mobile version (m.smeclabs.ac.in)
+# All canonical URLs point to the main site (smeclabs.ac.in)

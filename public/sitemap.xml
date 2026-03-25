@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Home Page -->
+  <url>
+    <loc>https://smeclabs.ac.in/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Courses Main Page -->
+  <url>
+    <loc>https://smeclabs.ac.in/courses/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Civil Engineering Course -->
+  <url>
+    <loc>https://smeclabs.ac.in/courses/civil-course/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Industrial Automation Course -->
+  <url>
+    <loc>https://smeclabs.ac.in/courses/industrial-automation/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Oil and Gas Course -->
+  <url>
+    <loc>https://smeclabs.ac.in/courses/oil-and-gas/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Embedded Systems Course -->
+  <url>
+    <loc>https://smeclabs.ac.in/courses/embedded-systems-course/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- MEP Course -->
+  <url>
+    <loc>https://smeclabs.ac.in/courses/mep-course/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Industrial Safety Course -->
+  <url>
+    <loc>https://smeclabs.ac.in/courses/industrial-safety/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- BMS Course -->
+  <url>
+    <loc>https://smeclabs.ac.in/courses/bms/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Software Testing Course -->
+  <url>
+    <loc>https://smeclabs.ac.in/courses/software-testing/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Python Full Stack Development Course -->
+  <url>
+    <loc>https://smeclabs.ac.in/courses/python-full-stack-development/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Data Science Course -->
+  <url>
+    <loc>https://smeclabs.ac.in/courses/data-science-course/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Networking Course -->
+  <url>
+    <loc>https://smeclabs.ac.in/courses/networking-course/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Software Development Course -->
+  <url>
+    <loc>https://smeclabs.ac.in/courses/software-development/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Fintech Training Course -->
+  <url>
+    <loc>https://smeclabs.ac.in/courses/fintech-training/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Digital Marketing Course -->
+  <url>
+    <loc>https://smeclabs.ac.in/courses/digital-marketing/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Logistics Course -->
+  <url>
+    <loc>https://smeclabs.ac.in/courses/logistics-course/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Graphic Design and Film Editing Course -->
+  <url>
+    <loc>https://smeclabs.ac.in/courses/graphic-design-and-film-editing-courses/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Career Page -->
+  <url>
+    <loc>https://smeclabs.ac.in/career/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Contact Page -->
+  <url>
+    <loc>https://smeclabs.ac.in/contact/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>
